@@ -1,4 +1,4 @@
-# 🦾Humanoid biped robots
+# 🦾Every humanoid biped robot /// listed on Google Sheets
 
 **Open https://docs.google.com/spreadsheets/d/1UsbKcS566MWuoOXwI_klBtzkLm3HMCo52oAqhwvZZyc**
 
